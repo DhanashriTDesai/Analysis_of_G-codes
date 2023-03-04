@@ -79,8 +79,3 @@ figure(2);
 plot(GridSize,tNonExtrCE,'-ko',GridSize,tNonExtrCustom,'-ks',LineWidth=4,MarkerSize=18);
 NameTheGraphModified('$$\mathrm{\mathbf{Grid\;size\;of\;Diamond\;celled\;frame}}$$','$$\mathrm{\mathbf{t}}_\mathrm{\mathbf{Non-extrusion}}$$ \textbf{[sec]}',[],2,'$$\;\mathrm{\mathbf{CURA\;toolpath}}$$','$$\;\mathrm{\mathbf{Customized\;toolpath}}$$',[],[],[],[],[],[],'NorthEast');
 xlim([1.5 7]); ylim([0 25]);
-
-
-
-
-
